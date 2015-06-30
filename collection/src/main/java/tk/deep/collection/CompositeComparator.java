@@ -1,4 +1,4 @@
-package tk.deep;
+package tk.deep.collection;
 
 import java.util.Comparator;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package tk.deep;
+package tk.deep.collection;
 
 /**
  * Created by dozray on 2015/6/29.
